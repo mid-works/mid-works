@@ -6,9 +6,7 @@
   </a>
 </h1>
 <p align="center" style="color: #666; font-size: 16px;">
-  Python Full-Stack Developer | AI & Gaming Enthusiast
-</p>
-
+  Ai & Data Science | Web Development
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mid-works&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile Views">
   <a href="https://github.com/mid-works?tab=followers">
