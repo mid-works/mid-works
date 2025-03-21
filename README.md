@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz9bGdpFlS9h4Q/giphy.gif" alt="Coding GIF" width="200"/>
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Retro Tech GIF" width="220"/>
 </p>
 
 # 💫 About Me  
