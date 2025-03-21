@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Retro Tech GIF" width="220"/></p>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing Code GIF" width="300"/></p>
 # 💫 About Me  
 <p align="center">Hi, I'm Midhun! A passionate developer and data enthusiast blending AI, movies, and visuals into exciting projects.</p>
 
