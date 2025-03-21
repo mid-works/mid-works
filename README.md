@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/[yourusername]/[yourusername]/master/resources/banner.png" alt="Welcome Banner" width="100%">
+<img src="https://raw.githubusercontent.com/mid-works/Midhun/master/resources/banner.png" alt="Welcome Banner" width="100%">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
