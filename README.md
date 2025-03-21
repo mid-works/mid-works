@@ -1,7 +1,10 @@
 <h1 align="center" style="font-size: 42px; color: #00BFFF;">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python Icon" width="40" height="40" style="vertical-align: middle;"/> 
+  <a href="https://lottie.host/be012a0a-d7ce-471f-932f-dccdf5943e21/BX4Y3sEzRS.lottie" target="_blank">
+    <img src="https://lottie.host/embed/be012a0a-d7ce-471f-932f-dccdf5943e21/preview.png" alt="Lottie Animation Preview" width="40" height="40" style="vertical-align: middle;"/>
+  </a>
   Midhun
 </h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=1000&color=666666&center=true&vCenter=true&width=450&height=40&lines=Python;Machine+Learning;Deep+Learning;Web+Development;" alt="Typing SVG">
