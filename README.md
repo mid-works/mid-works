@@ -1,6 +1,5 @@
 <h1 align="center" style="font-size: 42px; color: #00BFFF;">
-  <a href="https://lottie.host/be012a0a-d7ce-471f-932f-dccdf5943e21/BX4Y3sEzRS.lottie" target="_blank">
-    <img src="https://lottie.host/embed/be012a0a-d7ce-471f-932f-dccdf5943e21/preview.png" alt="Lottie Animation Preview" width="40" height="40" style="vertical-align: middle;"/>
+    <img src="https://github.com/mid-works/mid-works/blob/main/resource/robo.gif" alt="Lottie Animation" width="40" height="40" style="vertical-align: middle;"/>
   </a>
   Midhun
 </h1>
