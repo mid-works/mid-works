@@ -1,5 +1,5 @@
 # 💫 About Me  
-Hi, I'm [Your Name]! A passionate developer and data enthusiast blending AI, movies, and visuals into exciting projects.  
+Hi, I'm Midhun! A passionate developer and data enthusiast blending AI, movies, and visuals into exciting projects.  
 
 - 🎥 Built a movie recommendation system that nails your taste—better than a Netflix binge! 🍿  
 - 🎨 Created an image colorization model to splash vibrant colors onto grayscale pics. 🖼️✨  
@@ -44,11 +44,11 @@ Hi, I'm [Your Name]! A passionate developer and data enthusiast blending AI, mov
 ---
 
 ## 🏆 GitHub Stats  
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)  
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)  
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mid-works&show_icons=true&theme=radical)  
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mid-works&layout=compact&theme=radical)  
 
 ## 🏅 GitHub Trophies  
-- ![Trophies](https://github-profile-trophy.vercel.app/?username=[your-username]&theme=onedark)  
+- ![Trophies](https://github-profile-trophy.vercel.app/?username=mid-works&theme=onedark)  
 
 ---
 
@@ -57,4 +57,4 @@ Hi, I'm [Your Name]! A passionate developer and data enthusiast blending AI, mov
 
 ---
 
-- ![Profile Views](https://visitcount.itsvg.in/api?id=[your-username]&label=Profile%20Views&color=12&icon=5&pretty=true)  
+- ![Profile Views](https://visitcount.itsvg.in/api?id=mid-works&label=Profile%20Views&color=12&icon=5&pretty=true)  
