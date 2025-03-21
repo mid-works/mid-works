@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/26AHvF2p5pridaSjk/giphy.gif" alt="Neural Network GIF" width="220"/>
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Data Pulse GIF" width="280"/>
 </p>
   
   # 💫 About Me  
