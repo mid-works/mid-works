@@ -57,4 +57,4 @@ Hi, I'm Midhun! A passionate developer and data enthusiast blending AI, movies, 
 
 ---
 
-- ![Profile Views](https://visitcount.itsvg.in/api?id=mid-works&label=Profile%20Views&color=12&icon=5&pretty=true)  
+- ![Profile Views](https://visitcount.itsvg.in/api?id=mid-works&label=Profile%20Views&color=12&icon=5&pretty=true)
