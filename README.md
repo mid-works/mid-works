@@ -1,5 +1,11 @@
-# 💫 About Me:
-🎥 Making magic happen with:<br>A movie recommendation system that knows your tastes better than Netflix 🍿🎬. Are you a movie lover ? Because I’ve got a recommendation system that knows our tastes better to chill at my home🏠 with some 🍿🍿.<br><br>🎨 Are you a grayscale image? Because I’ve got the perfect model to add some color to your world 🖼️✨. That’s how my image colorization model breathes life into black-and-white photos!<br><br>🛠️ In desperate need of tips for:<br>Making deep learning models run faster than a coffee-fueled coder at 3 AM ☕💻.<br><br>🌟 Geeking out over:<br>TensorFlow, PyTorch, and data science experiments that keep my neurons firing ⚡🧠.<br><br>🗨️ Happy to chat about:<br>AI, ML, and why movies and colorful images are my favorite playgrounds 🎞️🌈.<br><br>🎉 A random fact to make you smile:<br>I trained my first neural network to recognize dogs, and it called a squirrel “a small dog with ambition” 🐕🐿️.
+Hi, I'm MIDHUN! A passionate developer and data enthusiast crafting cool projects at the intersection of AI, Web-tech  and visualization !!!
+
+🎥 Movie Recommendation System: A smart system that picks movies tailored to your taste—better than a Netflix binge! 🍿
+🎨 Image Colorization Model: Bringing grayscale images to life with vibrant colors using deep learning. 🖼️✨
+🛠️ Currently Exploring: Tips to optimize deep learning models for speed (faster than my 3 AM coffee runs ☕).
+🌟 Obsessed With: TensorFlow, PyTorch, and data science experiments that spark creativity. ⚡🧠
+🗨️ Let’s Chat About: AI, ML, movies, or colorful ideas! 🎞️🌈
+🎉 Fun Fact: My first neural net thought a squirrel was “a small dog with ambition.” 🐕🐿️
 
 
 ## 🌐 Socials:
@@ -9,31 +15,25 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mid_tasks) 💻
 
 
-## 💻 Tech Stack
-
-### 🌐 Web Development:
-- **CSS3** 🎨: Crafting beautiful and responsive web designs.
-- **HTML5** 🏗️: Structuring the web with semantic elements.
-- **JavaScript** ✨: Adding interactivity and dynamic content to web pages.
-- **Bootstrap** 🚀: Rapidly designing responsive websites.
-
-### 📊 Data Science:
-- **Python** 🐍: My go-to for scripting and data analysis.
-- **TensorFlow** 🤖 & **PyTorch** 🔥: Building and training machine learning models.
-- **Pandas** 🐼 & **NumPy** 🔢: Data manipulation and numerical operations.
-- **Matplotlib** 📉 & **Plotly** 📈: Creating insightful and interactive data visualizations.
-
-### ☁️ Cloud Services:
-- **Google Cloud** 🌥️: Deploying scalable applications and managing cloud resources.
-- **Streamlit** 🚀: Building and sharing data apps quickly.
-
-### 🖼️ Image Processing:
-- **OpenCV** 📷: Computer vision tasks and image processing.
-- **Adobe Lightroom** 🎨 & **Illustrator** ✏️: Creative editing and design work.
-
-### 💾 Database Management:
-- **MySQL** 💽: Managing and querying relational databases efficiently.
-
+💻 Tech Stack
+🌐 Web Development
+CSS3 🎨: Styling the web with flair and responsiveness.
+HTML5 🏗️: Building clean, semantic foundations.
+JavaScript ✨: Bringing interactivity to life.
+Bootstrap 🚀: Speedy, sleek, responsive designs.
+📊 Data Science
+Python 🐍: My Swiss Army knife for coding and analysis.
+TensorFlow 🤖 & PyTorch 🔥: Crafting cutting-edge ML models.
+Pandas 🐼 & NumPy 🔢: Data wrangling made fun.
+Matplotlib 📉 & Plotly 📈: Visualizing insights with style.
+☁️ Cloud & Apps
+Google Cloud 🌥️: Scaling projects to the sky.
+Streamlit 🚀: Turning data into shareable apps in a snap.
+🖼️ Image Processing
+OpenCV 📷: Mastering computer vision and image tricks.
+Adobe Lightroom 🎨 & Illustrator ✏️: Adding a creative spark.
+💾 Databases
+MySQL 💽: Structuring and querying data like a pro.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mid-works&theme=radical&no-frame=false&no-bg=true&margin-w=4)
