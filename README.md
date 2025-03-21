@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Data Pulse GIF" width="280"/>
+<img src="https://lottie.host/be012a0a-d7ce-471f-932f-dccdf5943e21/BX4Y3sEzRS.lottie" alt="Data Pulse GIF" width="280"/>
 </p>
   
   # 💫 About Me  
