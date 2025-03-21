@@ -1,10 +1,9 @@
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=400&height=50&lines=Hello,+I'm+[Your+Name];" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=800&color=00BFFF&center=true&vCenter=true&width=500&height=80&lines=Hi,+I'm+[Your+Name];Full-Stack+%26+AI+Developer;" alt="Typing SVG">
   </a>
 </h1>
+
 <p align="center" style="color: #666; font-size: 16px;">
   AI & Data Science | Web Development | Python Developer
 <p align="center">
