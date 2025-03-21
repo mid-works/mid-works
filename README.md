@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 42px; color: #00BFFF;">
-    <img src="https://github.com/mid-works/mid-works/blob/main/resource/robo.gif" alt="Lottie Animation" width="40" height="40" style="vertical-align: middle;"/>
+    <img src="https://github.com/mid-works/mid-works/blob/main/resource/robo.gif" alt="Lottie Animation" width="400" height="40" style="vertical-align: middle;"/>
   </a>
   Midhun
 </h1>
