@@ -1,6 +1,6 @@
 Hi, I'm MIDHUN! A passionate developer and data enthusiast crafting cool projects at the intersection of AI, Web-tech  and visualization !!!
 
-🎥 Movie Recommendation System: A smart system that picks movies tailored to your taste—better than a Netflix binge! 🍿
+-🎥 Movie Recommendation System: A smart system that picks movies tailored to your taste—better than a Netflix binge! 🍿
 🎨 Image Colorization Model: Bringing grayscale images to life with vibrant colors using deep learning. 🖼️✨
 🛠️ Currently Exploring: Tips to optimize deep learning models for speed (faster than my 3 AM coffee runs ☕).
 🌟 Obsessed With: TensorFlow, PyTorch, and data science experiments that spark creativity. ⚡🧠
