@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 80px; color: #00BFFF;">  
-  Hello I am Midhun
+  Hello I am <b style="color: #29903b ">Midhun</b>
 </h1>
 
 
