@@ -1,6 +1,8 @@
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing Code GIF" width="300"/></p>
-# 💫 About Me  
+<img src="https://avatars.githubusercontent.com/u/mid-works?v=4" alt="Profile Pic" width="150" style="border-radius:50%; border:3px solid #00ff00;"/>
+</p>
+  
+  # 💫 About Me  
 <p align="center">Hi, I'm Midhun! A passionate developer and data enthusiast blending AI, movies, and visuals into exciting projects.</p>
 
 - 🎥 Built a movie recommendation system that nails your taste—better than a Netflix binge! 🍿  
