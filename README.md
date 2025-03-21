@@ -1,8 +1,12 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=800&color=00BFFF&center=true&vCenter=true&width=500&height=80&lines=Hi,+I'm+[Your+Name];Full-Stack+%26+AI+Developer;" alt="Typing SVG">
-  </a>
+<h1 align="center" style="font-size: 42px; color: #00BFFF;">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python Icon" width="40" height="40" style="vertical-align: middle;"/> 
+  [Your Name]
 </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=1000&color=666666&center=true&vCenter=true&width=450&height=40&lines=Python+Full-Stack;Machine+Learning;Deep+Learning;Gaming+Tech;" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center" style="color: #666; font-size: 16px;">
   AI & Data Science | Web Development | Python Developer
