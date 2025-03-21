@@ -1,74 +1,45 @@
-<p align="center">
-<a href="https://lottie.host/be012a0a-d7ce-471f-932f-dccdf5943e21/BX4Y3sEzRS.lottie">
-</p>
-  
-  # 💫 About Me  
-<p align="center">Hi, I'm Midhun! A passionate developer and data enthusiast blending AI, movies, and visuals into exciting projects.</p>
+# 💫 About Me:
+🎥 Making magic happen with:<br>A movie recommendation system that knows your tastes better than Netflix 🍿🎬. Are you a movie lover ? Because I’ve got a recommendation system that knows our tastes better to chill at my home🏠 with some 🍿🍿.<br><br>🎨 Are you a grayscale image? Because I’ve got the perfect model to add some color to your world 🖼️✨. That’s how my image colorization model breathes life into black-and-white photos!<br><br>🛠️ In desperate need of tips for:<br>Making deep learning models run faster than a coffee-fueled coder at 3 AM ☕💻.<br><br>🌟 Geeking out over:<br>TensorFlow, PyTorch, and data science experiments that keep my neurons firing ⚡🧠.<br><br>🗨️ Happy to chat about:<br>AI, ML, and why movies and colorful images are my favorite playgrounds 🎞️🌈.<br><br>🎉 A random fact to make you smile:<br>I trained my first neural network to recognize dogs, and it called a squirrel “a small dog with ambition” 🐕🐿️.
 
-- 🎥 Built a movie recommendation system that nails your taste—better than a Netflix binge! 🍿  
-- 🎨 Created an image colorization model to splash vibrant colors onto grayscale pics. 🖼️✨  
-- 🛠️ Exploring ways to turbocharge deep learning models (faster than my 3 AM coffee runs ☕).  
-- 🌟 Geeking out over TensorFlow, PyTorch, and data science experiments. ⚡🧠  
-- 🗨️ Up for chats about AI, ML, movies, or colorful ideas! 🎞️🌈  
-- 🎉 Fun fact: My first neural net dubbed a squirrel “a small dog with ambition.” 🐕🐿️  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/featherless_heart) 📸
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/midhun-chandran-36378131b) 💼
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/midstask) 📌
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mid_tasks) 💻
 
-## 🌐 Socials  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/featherless_heart)  📸[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/midhun-chandran-36378131b)  💼[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/midstask)  📌[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mid_tasks) 💻
+## 💻 Tech Stack
 
----
+### 🌐 Web Development:
+- **CSS3** 🎨: Crafting beautiful and responsive web designs.
+- **HTML5** 🏗️: Structuring the web with semantic elements.
+- **JavaScript** ✨: Adding interactivity and dynamic content to web pages.
+- **Bootstrap** 🚀: Rapidly designing responsive websites.
 
-## 💻 Tech Stack  
-<details>
-  <summary><b>🌐 Web Development  </b></summary> 
-  - CSS3, HTML5, JavaScript: Crafting responsive, dynamic web experiences.  
-  - Bootstrap: Speedy, mobile-first designs. 
-</details>
+### 📊 Data Science:
+- **Python** 🐍: My go-to for scripting and data analysis.
+- **TensorFlow** 🤖 & **PyTorch** 🔥: Building and training machine learning models.
+- **Pandas** 🐼 & **NumPy** 🔢: Data manipulation and numerical operations.
+- **Matplotlib** 📉 & **Plotly** 📈: Creating insightful and interactive data visualizations.
 
- <detials>
- <summary><b>📊 Data Science</b> </summary>
-- Python: My go-to for scripting and analysis.  
-- TensorFlow, PyTorch: Powering cutting-edge ML models.  
-- Pandas, NumPy: Crunching data like a pro.  
-- Matplotlib, Plotly: Turning numbers into stunning visuals. 
- </detials>
+### ☁️ Cloud Services:
+- **Google Cloud** 🌥️: Deploying scalable applications and managing cloud resources.
+- **Streamlit** 🚀: Building and sharing data apps quickly.
 
-<detials>
-<summary><b>☁️ Cloud & Apps </b> </summary> 
-- Google Cloud: Scaling apps and managing resources.  
-- Streamlit: Building slick data apps fast.  
-</detials>
+### 🖼️ Image Processing:
+- **OpenCV** 📷: Computer vision tasks and image processing.
+- **Adobe Lightroom** 🎨 & **Illustrator** ✏️: Creative editing and design work.
 
-<detials>
-<summary><b>🖼️ Image Processing</b> </summary> 
-- OpenCV: Tackling computer vision and image tasks.  
-- Adobe Lightroom, Illustrator: Adding creative flair.  
-</detials>
+### 💾 Database Management:
+- **MySQL** 💽: Managing and querying relational databases efficiently.
 
-<detials>
-<summary><b>💾 Databases</b> </summary> 
-- MySQL: Managing relational data with ease.  
-</detials>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mid-works&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-## 🏆 GitHub Stats  
-<p align="center">
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mid-works&show_icons=true&theme=radical)  
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mid-works&layout=compact&theme=radical)  
-</p>
-
-## 🏅 GitHub Trophies  
-<p align="center">
-- ![Trophies](https://github-profile-trophy.vercel.app/?username=mid-works&theme=onedark)  
-</p>
----
-
-## ✍️ Random Dev Quote  
-<p align="center">
-- "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-</p>
----
-
+[![](https://visitcount.itsvg.in/api?id=mid-works&icon=0&color=0)](https://visitcount.itsvg.in)
