@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz9bGdpFlS9h4Q/giphy.gif" alt="Coding GIF" width="200"/>
+</p>
+
 # 💫 About Me  
-Hi, I'm Midhun! A passionate developer and data enthusiast blending AI, movies, and visuals into exciting projects.  
+<p align="center">Hi, I'm Midhun! A passionate developer and data enthusiast blending AI, movies, and visuals into exciting projects.</p>
 
 - 🎥 Built a movie recommendation system that nails your taste—better than a Netflix binge! 🍿  
 - 🎨 Created an image colorization model to splash vibrant colors onto grayscale pics. 🖼️✨  
@@ -11,50 +15,64 @@ Hi, I'm Midhun! A passionate developer and data enthusiast blending AI, movies, 
 ---
 
 ## 🌐 Socials  
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/featherless_heart)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/midhun-chandran-36378131b)  
-- [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/midstask)  
-- [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mid_tasks)  
+<p align=center>
+  - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/featherless_heart)  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/midhun-chandran-36378131b)  
+  - [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/midstask)  
+  - [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mid_tasks)
+</p>  
 
 ---
 
 ## 💻 Tech Stack  
+<details>
+  <summary><b>🌐 Web Development  </b></summary> 
+  - CSS3, HTML5, JavaScript: Crafting responsive, dynamic web experiences.  
+  - Bootstrap: Speedy, mobile-first designs. 
+</details>
 
-### 🌐 Web Development  
-- CSS3, HTML5, JavaScript: Crafting responsive, dynamic web experiences.  
-- Bootstrap: Speedy, mobile-first designs.  
-
-### 📊 Data Science  
+ <detials>
+ <summary><b>📊 Data Science</b> </summary>
 - Python: My go-to for scripting and analysis.  
 - TensorFlow, PyTorch: Powering cutting-edge ML models.  
 - Pandas, NumPy: Crunching data like a pro.  
-- Matplotlib, Plotly: Turning numbers into stunning visuals.  
+- Matplotlib, Plotly: Turning numbers into stunning visuals. 
+ </detials>
 
-### ☁️ Cloud & Apps  
+<detials>
+<summary><b>☁️ Cloud & Apps </b> </summary> 
 - Google Cloud: Scaling apps and managing resources.  
 - Streamlit: Building slick data apps fast.  
+</detials>
 
-### 🖼️ Image Processing  
+<detials>
+<summary><b>🖼️ Image Processing</b> </summary> 
 - OpenCV: Tackling computer vision and image tasks.  
 - Adobe Lightroom, Illustrator: Adding creative flair.  
+</detials>
 
-### 💾 Databases  
+<detials>
+<summary><b>💾 Databases</b> </summary> 
 - MySQL: Managing relational data with ease.  
+</detials>
 
 ---
 
 ## 🏆 GitHub Stats  
+<p align="center">
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mid-works&show_icons=true&theme=radical)  
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mid-works&layout=compact&theme=radical)  
+</p>
 
 ## 🏅 GitHub Trophies  
+<p align="center">
 - ![Trophies](https://github-profile-trophy.vercel.app/?username=mid-works&theme=onedark)  
-
+</p>
 ---
 
 ## ✍️ Random Dev Quote  
+<p align="center">
 - "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-
+</p>
 ---
 
-- ![Profile Views](https://visitcount.itsvg.in/api?id=mid-works&label=Profile%20Views&color=12&icon=5&pretty=true)
