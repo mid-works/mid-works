@@ -7,15 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[yourusername]&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile Views">
-  <a href="https://github.com/[yourusername]?tab=followers">
-    <img src="https://img.shields.io/github/followers/[yourusername]?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://[yourusername].github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-[Your+Name]-blueviolet?style=for-the-badge&logo=github" alt="Portfolio">
+  <img src="https://komarev.com/ghpvc/?username=mid-works&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile Views">
+  <a href="https://github.com/mid-works?tab=followers">
+    <img src="https://img.shields.io/github/followers/mid-works?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
 
@@ -41,11 +35,9 @@ I'm **[Your Name]**, a dedicated software developer and AI enthusiast with exper
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="60" height="60"/>
 </p>
 
-### Full-Stack & AI Tools:
+###  AI Tools:
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="60" height="60"/>
+
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="55" height="55"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="60" height="60"/>
