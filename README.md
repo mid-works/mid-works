@@ -2,9 +2,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Hello!+I'm+Midhun;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=400&height=50&lines=Hello,+I'm+[Your+Name];" alt="Typing SVG">
   </a>
 </h1>
+<p align="center" style="color: #666; font-size: 16px;">
+  Python Full-Stack Developer | AI & Gaming Enthusiast
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mid-works&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile Views">
