@@ -1,6 +1,5 @@
-<h1 align="center" style="font-size: 80px; color: #00BFFF;">
-    
-  Midhun
+<h1 align="center" style="font-size: 80px; color: #00BFFF;">  
+  Hello I am Midhun
 </h1>
 
 
