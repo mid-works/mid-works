@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/mid-works?v=4" alt="Profile Pic" width="150" style="border-radius:50%; border:3px solid #00ff00;"/>
+<img src="https://media.giphy.com/media/l0HlMnVyyM2BpqJva/giphy.gif" alt="AI Brain GIF" width="200"/>
 </p>
   
   # 💫 About Me  
