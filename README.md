@@ -6,7 +6,7 @@
   </a>
 </h1>
 <p align="center" style="color: #666; font-size: 16px;">
-  Ai & Data Science | Web Development
+  AI & Data Science | Web Development | Python Developer
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mid-works&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile Views">
   <a href="https://github.com/mid-works?tab=followers">
