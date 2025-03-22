@@ -36,7 +36,8 @@ A dedicated software developer and AI enthusiast with developing in Python full-
 ### Programming Languages:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="60" height="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="60" height="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="60" height="60"/>
 </p>
