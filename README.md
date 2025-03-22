@@ -62,12 +62,12 @@ A dedicated software developer and AI enthusiast with developing in Python full-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=light" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[yourusername]&theme=light" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mid-works&show_icons=true&theme=light" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mid-works&theme=light" alt="GitHub Streak" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[yourusername]&layout=compact&theme=light" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mid-works&layout=compact&theme=light" alt="Top Languages">
 </p>
 
 ---
