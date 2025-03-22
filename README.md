@@ -85,6 +85,4 @@ A dedicated software developer and AI enthusiast with developing in Python full-
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mid-works&theme=light" alt="Profile Details">
-</p>
+
