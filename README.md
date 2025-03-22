@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 80px; color: #00BFFF;">  
-  Welcome to my page I am Midhun
+  Welcome to my page I am <img src="https://img.shields.io/badge/Midhun-29903b?style=flat&logo=profile&logoColor=white" alt="Midhun Badge"/>
 </h1>
 
 
