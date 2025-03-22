@@ -76,10 +76,10 @@ A dedicated software developer and AI enthusiast with developing in Python full-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/midhun-chandran-36378131b/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" width="60" height="60"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60"/>
   </a>
   <a href="https://x.com/[yourhandle]" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X" width="60" height="60"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="X" width="60" height="60"/>
   </a>
 </p>
 
