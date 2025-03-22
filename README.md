@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 80px; color: #00BFFF;">  
-  welcome to my page
+  Welcome to my page I am Midhun
 </h1>
 
 
@@ -23,11 +23,11 @@
 
 ## 🌟 About Me
 
-I'm **Midhun**, a dedicated software developer and AI enthusiast with expertise in Python full-stack development, machine learning, and deep learning. My passion for gaming inspires me to create innovative, technology-driven solutions that bridge creativity and functionality. I thrive on solving complex problems and am always eager to collaborate on impactful projects.
+A dedicated software developer and AI enthusiast with developing in Python full-stack development, machine learning, and deep learning. My passion for gaming inspires me to create innovative, technology-driven solutions that bridge creativity and functionality. I thrive on solving complex problems and am always eager to collaborate on impactful projects.
 
 - 🔭 **Current Focus:** Full-stack development and AI-powered applications  
 - 📚 **Learning Path:** Advancing skills in deep learning and scalable system design  
-- 🤝 **Collaboration:** Open to opportunities in gaming tech, AI, and web development  
+- 🤝 **Collaboration:** Open to opportunities in Python Developer , AI Development and web development  
 
 ---
 
